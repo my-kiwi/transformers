@@ -1,10 +1,10 @@
-import { Notes } from './Notes';
+import { Transformers } from './Transformers';
 import { GithubLink } from './GithubLink';
 
 export const App = (): string => {
   return `
     <main>
-      ${Notes()}
+      ${Transformers()}
     </main>
     <footer">
       ${GithubLink()}
