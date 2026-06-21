@@ -1,5 +1,5 @@
 # Notes
-Basic notes app PWA: https://my-kiwi.github.io/notes
+[Transformers.js](https://huggingface.co/docs/transformers.js/index) playground: https://my-kiwi.github.io/transformers/
 
 ## Install the PWA
 ### Apple iOS
