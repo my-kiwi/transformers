@@ -1,6 +1,8 @@
 # Notes
 [Transformers.js](https://huggingface.co/docs/transformers.js/index) playground: https://my-kiwi.github.io/transformers/
 
+tutorial code: https://github.com/huggingface/transformers.js-examples/tree/main/vanilla-js
+
 ## Install the PWA
 ### Apple iOS
 1. Tap Share
